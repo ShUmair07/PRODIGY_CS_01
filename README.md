@@ -10,4 +10,7 @@ A Python program to encrypt and decrypt messages using the Caesar Cipher algorit
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/ShUmair07/PRODIGY_CS_01.git
+   
+2. Run the script:  
+   ```bash  
    python ceaser_cipher.py
